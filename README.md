@@ -1,4 +1,4 @@
-# Resoluções de algoritmos do URI
+# Resoluções de algoritmos do URI (Java)
 
 Algoritmos Resolvidos Uri online judge
 
